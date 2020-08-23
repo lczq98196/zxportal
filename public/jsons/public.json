@@ -1,0 +1,32 @@
+[
+    {
+        "url": "https://www.baidu.com",
+        "img": "/imgs/carousel/1.jpg",
+        "text":"港湾"
+    },
+    {
+        "url": "https://www.baidu.com",
+        "img": "/imgs/carousel/2.jpg",
+        "text":"湖畔"
+    },
+    {
+        "url": "https://www.baidu.com",
+        "img": "/imgs/carousel/3.jpg",
+        "text":"雪山"
+    },
+    {
+        "url": "https://www.baidu.com",
+        "img": "/imgs/carousel/4.jpg",
+        "text":"田园"
+    },
+    {
+        "url": "https://www.baidu.com",
+        "img": "/imgs/carousel/258.jpg",
+        "text":"黄昏"
+    },
+    {
+        "url": "https://www.baidu.com",
+        "img": "/imgs/carousel/5.jpg",
+        "text":"田园风光"
+    }
+]
